@@ -1,6 +1,6 @@
 # StudySync
 
-A responsive and visually engaging educational landing page built using HTML and CSS. StudySync is designed to promote seamless learning experiences and showcase features, partnerships, testimonials, and newsletter subscriptions.
+A responsive and visually engaging educational landing page built using HTML and CSS. StudySync is designed to promote seamless learning experiences and showcase features, partnerships, testimonials, and newsletter subscriptions. 
 
 ## 🚀 Features
 
@@ -12,5 +12,4 @@ A responsive and visually engaging educational landing page built using HTML and
 - Testimonials from satisfied users and founders
 - Newsletter signup form with styled inputs
 
-## 📁 Project Structure
 
